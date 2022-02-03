@@ -5,3 +5,20 @@ App Link: https://afternoon-wave-66119.herokuapp.com/A-new-list
 
 To create a new list: https://afternoon-wave-66119.herokuapp.com/[a-new-list-name], which [a-new-list-name] can be any name your choice. The created list will be permanant available online.
 
+- Npm packages:
+
+    express
+    body-parser
+    ejs
+
+- Unix command terminal: 
+
+    Hyper.is
+
+- Run server: 
+    nodemon app.js
+    
+- Routes: 
+    localhost:3000/
+    localhost:3000/work 
+    localhost:3000/about
